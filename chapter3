@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chapter 3</title>
+    <style>
+        body {
+            margin: 0;
+            background: #111;
+            text-align: center;
+        }
+
+        img {
+            width: 100%;
+            max-width: 900px;
+            display: block;
+            margin: 0 auto;
+        }
+
+        .nav {
+            padding: 20px;
+        }
+
+        a {
+            color: white;
+            text-decoration: none;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="nav">
+    <a href="index.html">Back</a> |
+    
+</div>
+
+<img src="images/Chapter3/page1.png">
+<img src="images/Chapter3/page2.png">
+<img src="images/Chapter3/page3.png">
+<img src="images/Chapter3/page4.png">
+<img src="images/Chapter3/page5.png">
+<img src="images/Chapter3/page6.png">
+<img src="images/Chapter3/page7.png">
+<img src="images/Chapter3/page8.png">
+
+<div class="nav">
+    <a href="index.html">Back</a> |
+
+</div>
+
+</body>
+</html>
